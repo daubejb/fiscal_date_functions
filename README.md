@@ -14,7 +14,7 @@ I created a few spreadsheets on Google Sheets for my peers at work and included 
 
 ![weekday_name](/images/weekday_name.png)
 
-##How to Use
+## How to Use
 To use this Add-on in a google sheet, simply:
 
 1. **Open** a new or existing _Google Sheet_
